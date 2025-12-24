@@ -73,11 +73,19 @@
   <a href="https://github-readme-stats-fatalcoder524.vercel.app/api?username=fatalcoder524&show=reviews,prs_merged_percentage&show_icons=true&theme=radical">
     <img height=200 align="center" src="https://github-readme-stats-fatalcoder524.vercel.app/api?username=fatalcoder524&show=reviews,prs_merged_percentage&show_icons=true&theme=radical" />
   </a>
-  &nbsp; &nbsp; &nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github-readme-stats-fatalcoder524.vercel.app/api/top-langs/?username=fatalcoder524&theme=radical&layout=compact&langs_count=10&card_width=250">
     <img height=200 align="center" src="https://github-readme-stats-fatalcoder524.vercel.app/api/top-langs/?username=fatalcoder524&theme=radical&layout=compact&langs_count=10&card_width=250" />
   </a>
-  <br/><br/><br/>
+  <br/><br/>
+  <a href="https://github-readme-streak-stats-fatalcoder524.vercel.app?user=fatalcoder524&theme=radical&exclude_days=Sun&short_numbers=true">
+    <img align="center" src="https://github-readme-streak-stats-fatalcoder524.vercel.app?user=fatalcoder524&theme=radical&exclude_days=Sun&short_numbers=true&card_width=400" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github-readme-streak-stats-fatalcoder524.vercel.app?user=fatalcoder524&theme=radical&exclude_days=Sun&short_numbers=true&mode=weekly">
+    <img align="center" src="https://github-readme-streak-stats-fatalcoder524.vercel.app?user=fatalcoder524&theme=radical&exclude_days=Sun&short_numbers=true&mode=weekly&card_width=400" />
+  </a>
+  <br/><br/>
   <a href="https://github-readme-activity-graph-fatalcoder524.vercel.app/graph?username=fatalcoder524&theme=react-dark&bg_color=141321&line=99E5E0&title_color=D83B7D&point=D83B7D&hide_border=true&days=10&custom_title=fatalcoder524's%20Active%20Brainwash%20Activity%20Graph">
     <img src="https://github-readme-activity-graph-fatalcoder524.vercel.app/graph?username=fatalcoder524&theme=react-dark&bg_color=141321&line=99E5E0&title_color=D83B7D&point=D83B7D&hide_border=true&days=10&custom_title=fatalcoder524's%20Active%20Brainwash%20Activity%20Graph" width="100%"/>
   </a>
