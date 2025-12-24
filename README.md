@@ -68,7 +68,7 @@
   </a>
 </p>
 
-### user@life:~$ ./fatalcoder524 --github-stats <br> My Github Stats: <br> 🛸 Initiating Git Data Abduction Sequence...
+### user@life:~$ ./fatalcoder524 --github-stats <br> My GitHub Stats: <br> 🛸 Initiating Git Data Abduction Sequence...
 <p align="center">
   <a href="https://github-readme-stats-fatalcoder524.vercel.app/api?username=fatalcoder524&show=reviews,prs_merged_percentage&show_icons=true&theme=radical">
     <img height=200 align="center" src="https://github-readme-stats-fatalcoder524.vercel.app/api?username=fatalcoder524&show=reviews,prs_merged_percentage&show_icons=true&theme=radical" />
@@ -78,5 +78,7 @@
     <img height=200 align="center" src="https://github-readme-stats-fatalcoder524.vercel.app/api/top-langs/?username=fatalcoder524&theme=radical&layout=compact&langs_count=10&card_width=250" />
   </a>
 </p>
+
+<!--START_SECTION:activity-->
 
 ### Hijacking System! <br> Initiating Nuke Sequence on Exit 💣💣💣 <br> exiting... <br/> user@life:~$ :(){ :|:& };:
