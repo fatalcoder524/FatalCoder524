@@ -19,7 +19,7 @@
 <p align="center">
       <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" alt="c" width="60" height="60"/>
       <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="c++" width="55" height="55"/>
-      <img src="https://png.cleanpng.com/downloadpng/d72302da71bd832b427e09d592a511b3/L3PzRHFClgQweKN4R6NsYka1QbfthcQ0PGU5fNZqM0npdoiCWPE1QGg3TapqLoDxd1==.png" alt="c#" width="55" height="55"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="c#" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
 </p>
