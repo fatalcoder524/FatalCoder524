@@ -79,6 +79,8 @@
   </a>
 </p>
 
+### :zap: Recent Brainwash Activity
+
 <!--START_SECTION:activity-->
 1. 🔒 Closed issue [#98](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/issues/98) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
 2. 🔒 Closed issue [#100](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/issues/100) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
