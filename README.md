@@ -40,7 +40,7 @@
       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
       <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/refs/heads/main/svg/selenium.svg" alt="selenium" width="45" height="55"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Magisk_Logo.svg/459px-Magisk_Logo.svg.png" alt="magisk" width="55" height="55"/>
-      <img src="https://github.com/KernelSU-Next/KernelSU-Next/blob/next/assets/kernelsu_next.png" alt="kernelsu-next" width="55" height="55"/>
+      <img src="https://github.com/KernelSU-Next/KernelSU-Next/blob/stable/assets/kernelsu_next.png" alt="kernelsu-next" width="55" height="55"/>
 </p>
 
 ### user@life:~$ ./fatalcoder524 --tech-stack-intrested <br> Languages👨‍💻,Tools🧰& Technologia🤔 Learning or Wish to Learn
