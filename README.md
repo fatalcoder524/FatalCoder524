@@ -89,6 +89,11 @@
   <a href="https://github-readme-activity-graph-fatalcoder524.vercel.app/graph?username=fatalcoder524&theme=react-dark&bg_color=141321&line=99E5E0&title_color=D83B7D&point=D83B7D&hide_border=true&days=10&custom_title=fatalcoder524's%20Active%20Brainwash%20Activity%20Graph">
     <img src="https://github-readme-activity-graph-fatalcoder524.vercel.app/graph?username=fatalcoder524&theme=react-dark&bg_color=141321&line=99E5E0&title_color=D83B7D&point=D83B7D&hide_border=true&days=10&custom_title=fatalcoder524's%20Active%20Brainwash%20Activity%20Graph" width="100%"/>
   </a>
+  <br/><br/>
+  <a href="https://stackoverflow.com/users/11783181/fatalcoder524">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&width=620&lines=My+Stats+on+Knowledge+shared+after+abducting+people" align="center" alt="Typing SVG" /></a>
+    <img src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/11783181" width="100%" align="center"/>
+  </a>
 </p>
 
 ### :zap: Recent Brainwash Activity
