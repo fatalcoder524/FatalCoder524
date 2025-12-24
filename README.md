@@ -77,6 +77,10 @@
   <a href="https://github-readme-stats-fatalcoder524.vercel.app/api/top-langs/?username=fatalcoder524&theme=radical&layout=compact&langs_count=10&card_width=250">
     <img height=200 align="center" src="https://github-readme-stats-fatalcoder524.vercel.app/api/top-langs/?username=fatalcoder524&theme=radical&layout=compact&langs_count=10&card_width=250" />
   </a>
+  <br/><br/><br/>
+  <a href="https://github-readme-activity-graph-fatalcoder524.vercel.app/graph?username=fatalcoder524&theme=react-dark&bg_color=141321&line=99E5E0&title_color=D83B7D&point=D83B7D&hide_border=true&days=10&custom_title=fatalcoder524's%20Active%20Brainwash%20Activity%20Graph">
+    <img src="https://github-readme-activity-graph-fatalcoder524.vercel.app/graph?username=fatalcoder524&theme=react-dark&bg_color=141321&line=99E5E0&title_color=D83B7D&point=D83B7D&hide_border=true&days=10&custom_title=fatalcoder524's%20Active%20Brainwash%20Activity%20Graph" width="100%"/>
+  </a>
 </p>
 
 ### :zap: Recent Brainwash Activity
