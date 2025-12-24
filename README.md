@@ -12,6 +12,8 @@
 [![](https://img.shields.io/badge/Maintainer-📱%20OnePlus_KernelSU_SUSFS-0b0)](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
 [![](https://img.shields.io/badge/Fork-📲%20Kernel%20Flasher-0b0)](https://github.com/fatalcoder524/KernelFlasher)
 [![](https://img.shields.io/badge/Admin-🌐%20TCP%20Optimiser%20Module-0b0)](https://github.com/fatalcoder524/TCP_Optimiser_Module)
+[![](https://img.shields.io/badge/Org%20Member-☯️%20KernelSU--Next-0b0)](https://github.com/KernelSU-Next/KernelSU-Next)
+[![](https://img.shields.io/badge/Org%20Member-☯️%20EmberHeart--Kernels-0b0)](https://github.com/EmberHeart-Kernels)
 
 ### user@life:~$ ./fatalcoder524 --tech-stack-known <br> Languages👨‍💻,Tools🧰& Technologia🤔 Known
 <p align="center">
