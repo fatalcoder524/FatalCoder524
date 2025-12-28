@@ -101,13 +101,13 @@
 ### :zap: Recent Brainwash Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/fatalcoder524/OnePlus_KernelSU_SUSFS/pull/12#issuecomment-3694982519) in [fatalcoder524/OnePlus_KernelSU_SUSFS](https://github.com/fatalcoder524/OnePlus_KernelSU_SUSFS)
-2. 🗣 Commented on [#192](https://github.com/WildKernels/GKI_KernelSU_SUSFS/issues/192#issuecomment-3694858581) in [WildKernels/GKI_KernelSU_SUSFS](https://github.com/WildKernels/GKI_KernelSU_SUSFS)
-3. 🗣 Commented on [#192](https://github.com/WildKernels/GKI_KernelSU_SUSFS/issues/192#issuecomment-3694792701) in [WildKernels/GKI_KernelSU_SUSFS](https://github.com/WildKernels/GKI_KernelSU_SUSFS)
-4. 🗣 Commented on [#192](https://github.com/WildKernels/GKI_KernelSU_SUSFS/issues/192#issuecomment-3694778646) in [WildKernels/GKI_KernelSU_SUSFS](https://github.com/WildKernels/GKI_KernelSU_SUSFS)
-5. 💪 Opened PR [#72](undefined) in [vc-teahouse/Baseband-guard](https://github.com/vc-teahouse/Baseband-guard)
-6. 🗣 Commented on [#108](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/issues/108#issuecomment-3694244037) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
-7. 🗣 Commented on [#107](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/pull/107#issuecomment-3694014243) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
+1. 🗣 Commented on [#12](https://github.com/fatalcoder524/OnePlus_KernelSU_SUSFS/pull/12#issuecomment-3694984416) in [fatalcoder524/OnePlus_KernelSU_SUSFS](https://github.com/fatalcoder524/OnePlus_KernelSU_SUSFS)
+2. 🗣 Commented on [#12](https://github.com/fatalcoder524/OnePlus_KernelSU_SUSFS/pull/12#issuecomment-3694982519) in [fatalcoder524/OnePlus_KernelSU_SUSFS](https://github.com/fatalcoder524/OnePlus_KernelSU_SUSFS)
+3. 🗣 Commented on [#192](https://github.com/WildKernels/GKI_KernelSU_SUSFS/issues/192#issuecomment-3694858581) in [WildKernels/GKI_KernelSU_SUSFS](https://github.com/WildKernels/GKI_KernelSU_SUSFS)
+4. 🗣 Commented on [#192](https://github.com/WildKernels/GKI_KernelSU_SUSFS/issues/192#issuecomment-3694792701) in [WildKernels/GKI_KernelSU_SUSFS](https://github.com/WildKernels/GKI_KernelSU_SUSFS)
+5. 🗣 Commented on [#192](https://github.com/WildKernels/GKI_KernelSU_SUSFS/issues/192#issuecomment-3694778646) in [WildKernels/GKI_KernelSU_SUSFS](https://github.com/WildKernels/GKI_KernelSU_SUSFS)
+6. 💪 Opened PR [#72](undefined) in [vc-teahouse/Baseband-guard](https://github.com/vc-teahouse/Baseband-guard)
+7. 🗣 Commented on [#108](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/issues/108#issuecomment-3694244037) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
 <!--END_SECTION:activity-->
 
 ### Hijacking System! <br> Initiating Nuke Sequence on Exit 💣💣💣 <br> exiting... <br/> user@life:~$ :(){ :|:& };:
