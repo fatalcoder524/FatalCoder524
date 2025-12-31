@@ -101,13 +101,13 @@
 ### :zap: Recent Brainwash Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#57](https://github.com/WildKernels/kernel_patches/pull/57#issuecomment-3701839056) in [WildKernels/kernel_patches](https://github.com/WildKernels/kernel_patches)
-2. 🗣 Commented on [#106](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/issues/106#issuecomment-3701812748) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
-3. ❌ Closed PR [#2](undefined) in [fatalcoder524/OnePlus-Remote-Action-Build](https://github.com/fatalcoder524/OnePlus-Remote-Action-Build)
-4. ❗ Opened issue [#154](https://github.com/OnePlusOSS/kernel_manifest/issues/154) in [OnePlusOSS/kernel_manifest](https://github.com/OnePlusOSS/kernel_manifest)
-5. 🗣 Commented on [#106](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/issues/106#issuecomment-3698853873) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
-6. 🗣 Commented on [#1028](https://github.com/KernelSU-Next/KernelSU-Next/issues/1028#issuecomment-3698821459) in [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
-7. 🗣 Commented on [#1027](https://github.com/KernelSU-Next/KernelSU-Next/issues/1027#issuecomment-3697655934) in [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
+1. 🗣 Commented on [#1](https://github.com/EmberHeart-Kernels/EmberHeart_OnePlus11/pull/1#issuecomment-3702172153) in [EmberHeart-Kernels/EmberHeart_OnePlus11](https://github.com/EmberHeart-Kernels/EmberHeart_OnePlus11)
+2. 🗣 Commented on [#57](https://github.com/WildKernels/kernel_patches/pull/57#issuecomment-3701839056) in [WildKernels/kernel_patches](https://github.com/WildKernels/kernel_patches)
+3. 🗣 Commented on [#106](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/issues/106#issuecomment-3701812748) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
+4. ❌ Closed PR [#2](undefined) in [fatalcoder524/OnePlus-Remote-Action-Build](https://github.com/fatalcoder524/OnePlus-Remote-Action-Build)
+5. ❗ Opened issue [#154](https://github.com/OnePlusOSS/kernel_manifest/issues/154) in [OnePlusOSS/kernel_manifest](https://github.com/OnePlusOSS/kernel_manifest)
+6. 🗣 Commented on [#106](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/issues/106#issuecomment-3698853873) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
+7. 🗣 Commented on [#1028](https://github.com/KernelSU-Next/KernelSU-Next/issues/1028#issuecomment-3698821459) in [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
 <!--END_SECTION:activity-->
 
 ### Hijacking System! <br> Initiating Nuke Sequence on Exit 💣💣💣 <br> exiting... <br/> user@life:~$ :(){ :|:& };:
