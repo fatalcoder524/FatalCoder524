@@ -101,11 +101,11 @@
 ### :zap: Recent Brainwash Activity
 
 <!--START_SECTION:activity-->
-1.  Labeled issue [#1031](https://github.com/KernelSU-Next/KernelSU-Next/issues/1031) in [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
+1. ℹ️ Labeled issue [#1031](https://github.com/KernelSU-Next/KernelSU-Next/issues/1031) in [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
 2. 🗣 Commented on [#1034](https://github.com/KernelSU-Next/KernelSU-Next/issues/1034#issuecomment-3703456923) in [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
 3. 🔒 Closed issue [#1034](https://github.com/KernelSU-Next/KernelSU-Next/issues/1034) in [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
 4. 🗣 Commented on [#1034](https://github.com/KernelSU-Next/KernelSU-Next/issues/1034#issuecomment-3703456553) in [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
-5. ❌ Merged PR [#72](undefined) in [vc-teahouse/Baseband-guard](https://github.com/vc-teahouse/Baseband-guard)
+5. 🎉 Merged PR [#72](https://github.com/vc-teahouse/Baseband-guard/pull/72) in [vc-teahouse/Baseband-guard](https://github.com/vc-teahouse/Baseband-guard)
 6. 🗣 Commented on [#155](https://github.com/OnePlusOSS/kernel_manifest/issues/155#issuecomment-3702517297) in [OnePlusOSS/kernel_manifest](https://github.com/OnePlusOSS/kernel_manifest)
 7. 🗣 Commented on [#1](https://github.com/EmberHeart-Kernels/EmberHeart_OnePlus11/pull/1#issuecomment-3702172153) in [EmberHeart-Kernels/EmberHeart_OnePlus11](https://github.com/EmberHeart-Kernels/EmberHeart_OnePlus11)
 <!--END_SECTION:activity-->
