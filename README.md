@@ -101,13 +101,13 @@
 ### :zap: Recent Brainwash Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1045](https://github.com/KernelSU-Next/KernelSU-Next/pull/1045) in [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
-2. 🗣 Commented on [#51](https://github.com/chisewaguri/systemapp_nuker/issues/51#issuecomment-3706959170) in [chisewaguri/systemapp_nuker](https://github.com/chisewaguri/systemapp_nuker)
-3. 🗣 Commented on [#50](https://github.com/chisewaguri/systemapp_nuker/issues/50#issuecomment-3706931355) in [chisewaguri/systemapp_nuker](https://github.com/chisewaguri/systemapp_nuker)
-4. 🗣 Commented on [#106](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/issues/106#issuecomment-3704812028) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
-5. 🗣 Commented on [#109](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/issues/109#issuecomment-3704775086) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
-6. 🗣 Commented on [#1039](https://github.com/KernelSU-Next/KernelSU-Next/issues/1039#issuecomment-3704528315) in [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
-7. 🗣 Commented on [#109](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/issues/109#issuecomment-3704524201) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
+1. 🎉 Merged PR [#1045](https://github.com/KernelSU-Next/KernelSU-Next/pull/1045) in [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
+2. 🗣 Commented on [#1028](https://github.com/KernelSU-Next/KernelSU-Next/issues/1028#issuecomment-3707311679) in [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
+3. 💪 Opened PR [#1045](https://github.com/KernelSU-Next/KernelSU-Next/pull/1045) in [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
+4. 🗣 Commented on [#51](https://github.com/chisewaguri/systemapp_nuker/issues/51#issuecomment-3706959170) in [chisewaguri/systemapp_nuker](https://github.com/chisewaguri/systemapp_nuker)
+5. 🗣 Commented on [#50](https://github.com/chisewaguri/systemapp_nuker/issues/50#issuecomment-3706931355) in [chisewaguri/systemapp_nuker](https://github.com/chisewaguri/systemapp_nuker)
+6. 🗣 Commented on [#106](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/issues/106#issuecomment-3704812028) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
+7. 🗣 Commented on [#109](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/issues/109#issuecomment-3704775086) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
 <!--END_SECTION:activity-->
 
 ### Hijacking System! <br> Initiating Nuke Sequence on Exit 💣💣💣 <br> exiting... <br/> user@life:~$ :(){ :|:& };:
