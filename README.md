@@ -101,13 +101,13 @@
 ### :zap: Recent Brainwash Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1067](https://github.com/KernelSU-Next/KernelSU-Next/pull/1067) in [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
-2. 💪 Opened PR [#160](https://github.com/WildKernels/Wild_KSU/pull/160) in [WildKernels/Wild_KSU](https://github.com/WildKernels/Wild_KSU)
-3. 💪 Opened PR [#1067](https://github.com/KernelSU-Next/KernelSU-Next/pull/1067) in [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
-4. 🗣 Commented on [#51](https://github.com/chisewaguri/systemapp_nuker/issues/51#issuecomment-3734442214) in [chisewaguri/systemapp_nuker](https://github.com/chisewaguri/systemapp_nuker)
-5. 🗣 Commented on [#153](https://github.com/WildKernels/Wild_KSU/issues/153#issuecomment-3733682885) in [WildKernels/Wild_KSU](https://github.com/WildKernels/Wild_KSU)
-6. 🎉 Merged PR [#157](https://github.com/WildKernels/Wild_KSU/pull/157) in [WildKernels/Wild_KSU](https://github.com/WildKernels/Wild_KSU)
-7. ❌ Closed PR [#156](https://github.com/WildKernels/Wild_KSU/pull/156) in [WildKernels/Wild_KSU](https://github.com/WildKernels/Wild_KSU)
+1. 🎉 Merged PR [#160](https://github.com/WildKernels/Wild_KSU/pull/160) in [WildKernels/Wild_KSU](https://github.com/WildKernels/Wild_KSU)
+2. 🎉 Merged PR [#1067](https://github.com/KernelSU-Next/KernelSU-Next/pull/1067) in [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
+3. 💪 Opened PR [#160](https://github.com/WildKernels/Wild_KSU/pull/160) in [WildKernels/Wild_KSU](https://github.com/WildKernels/Wild_KSU)
+4. 💪 Opened PR [#1067](https://github.com/KernelSU-Next/KernelSU-Next/pull/1067) in [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
+5. 🗣 Commented on [#51](https://github.com/chisewaguri/systemapp_nuker/issues/51#issuecomment-3734442214) in [chisewaguri/systemapp_nuker](https://github.com/chisewaguri/systemapp_nuker)
+6. 🗣 Commented on [#153](https://github.com/WildKernels/Wild_KSU/issues/153#issuecomment-3733682885) in [WildKernels/Wild_KSU](https://github.com/WildKernels/Wild_KSU)
+7. 🎉 Merged PR [#157](https://github.com/WildKernels/Wild_KSU/pull/157) in [WildKernels/Wild_KSU](https://github.com/WildKernels/Wild_KSU)
 <!--END_SECTION:activity-->
 
 ### Hijacking System! <br> Initiating Nuke Sequence on Exit 💣💣💣 <br> exiting... <br/> user@life:~$ :(){ :|:& };:
