@@ -101,13 +101,13 @@
 ### :zap: Recent Brainwash Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#51](https://github.com/chisewaguri/systemapp_nuker/issues/51#issuecomment-3734442214) in [chisewaguri/systemapp_nuker](https://github.com/chisewaguri/systemapp_nuker)
-2. 🗣 Commented on [#153](https://github.com/WildKernels/Wild_KSU/issues/153#issuecomment-3733682885) in [WildKernels/Wild_KSU](https://github.com/WildKernels/Wild_KSU)
-3. 🎉 Merged PR [#157](https://github.com/WildKernels/Wild_KSU/pull/157) in [WildKernels/Wild_KSU](https://github.com/WildKernels/Wild_KSU)
-4. ❌ Closed PR [#156](https://github.com/WildKernels/Wild_KSU/pull/156) in [WildKernels/Wild_KSU](https://github.com/WildKernels/Wild_KSU)
-5. 💪 Opened PR [#157](https://github.com/WildKernels/Wild_KSU/pull/157) in [WildKernels/Wild_KSU](https://github.com/WildKernels/Wild_KSU)
-6. 💪 Opened PR [#156](https://github.com/WildKernels/Wild_KSU/pull/156) in [WildKernels/Wild_KSU](https://github.com/WildKernels/Wild_KSU)
-7. 🗣 Commented on [#106](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/issues/106#issuecomment-3732843885) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
+1. 💪 Opened PR [#160](https://github.com/WildKernels/Wild_KSU/pull/160) in [WildKernels/Wild_KSU](https://github.com/WildKernels/Wild_KSU)
+2. 💪 Opened PR [#1067](https://github.com/KernelSU-Next/KernelSU-Next/pull/1067) in [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
+3. 🗣 Commented on [#51](https://github.com/chisewaguri/systemapp_nuker/issues/51#issuecomment-3734442214) in [chisewaguri/systemapp_nuker](https://github.com/chisewaguri/systemapp_nuker)
+4. 🗣 Commented on [#153](https://github.com/WildKernels/Wild_KSU/issues/153#issuecomment-3733682885) in [WildKernels/Wild_KSU](https://github.com/WildKernels/Wild_KSU)
+5. 🎉 Merged PR [#157](https://github.com/WildKernels/Wild_KSU/pull/157) in [WildKernels/Wild_KSU](https://github.com/WildKernels/Wild_KSU)
+6. ❌ Closed PR [#156](https://github.com/WildKernels/Wild_KSU/pull/156) in [WildKernels/Wild_KSU](https://github.com/WildKernels/Wild_KSU)
+7. 💪 Opened PR [#157](https://github.com/WildKernels/Wild_KSU/pull/157) in [WildKernels/Wild_KSU](https://github.com/WildKernels/Wild_KSU)
 <!--END_SECTION:activity-->
 
 ### Hijacking System! <br> Initiating Nuke Sequence on Exit 💣💣💣 <br> exiting... <br/> user@life:~$ :(){ :|:& };:
