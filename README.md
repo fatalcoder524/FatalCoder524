@@ -101,13 +101,13 @@
 ### :zap: Recent Brainwash Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#163](https://github.com/OnePlusOSS/kernel_manifest/issues/163#issuecomment-3737700553) in [OnePlusOSS/kernel_manifest](https://github.com/OnePlusOSS/kernel_manifest)
-2. 🗣 Commented on [#163](https://github.com/OnePlusOSS/kernel_manifest/issues/163#issuecomment-3737514302) in [OnePlusOSS/kernel_manifest](https://github.com/OnePlusOSS/kernel_manifest)
-3. 🎉 Merged PR [#160](https://github.com/WildKernels/Wild_KSU/pull/160) in [WildKernels/Wild_KSU](https://github.com/WildKernels/Wild_KSU)
-4. 🎉 Merged PR [#1067](https://github.com/KernelSU-Next/KernelSU-Next/pull/1067) in [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
-5. 💪 Opened PR [#160](https://github.com/WildKernels/Wild_KSU/pull/160) in [WildKernels/Wild_KSU](https://github.com/WildKernels/Wild_KSU)
-6. 💪 Opened PR [#1067](https://github.com/KernelSU-Next/KernelSU-Next/pull/1067) in [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
-7. 🗣 Commented on [#51](https://github.com/chisewaguri/systemapp_nuker/issues/51#issuecomment-3734442214) in [chisewaguri/systemapp_nuker](https://github.com/chisewaguri/systemapp_nuker)
+1. 🗣 Commented on [#163](https://github.com/OnePlusOSS/kernel_manifest/issues/163#issuecomment-3739948304) in [OnePlusOSS/kernel_manifest](https://github.com/OnePlusOSS/kernel_manifest)
+2. 🗣 Commented on [#163](https://github.com/OnePlusOSS/kernel_manifest/issues/163#issuecomment-3737700553) in [OnePlusOSS/kernel_manifest](https://github.com/OnePlusOSS/kernel_manifest)
+3. 🗣 Commented on [#163](https://github.com/OnePlusOSS/kernel_manifest/issues/163#issuecomment-3737514302) in [OnePlusOSS/kernel_manifest](https://github.com/OnePlusOSS/kernel_manifest)
+4. 🎉 Merged PR [#160](https://github.com/WildKernels/Wild_KSU/pull/160) in [WildKernels/Wild_KSU](https://github.com/WildKernels/Wild_KSU)
+5. 🎉 Merged PR [#1067](https://github.com/KernelSU-Next/KernelSU-Next/pull/1067) in [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
+6. 💪 Opened PR [#160](https://github.com/WildKernels/Wild_KSU/pull/160) in [WildKernels/Wild_KSU](https://github.com/WildKernels/Wild_KSU)
+7. 💪 Opened PR [#1067](https://github.com/KernelSU-Next/KernelSU-Next/pull/1067) in [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
 <!--END_SECTION:activity-->
 
 ### Hijacking System! <br> Initiating Nuke Sequence on Exit 💣💣💣 <br> exiting... <br/> user@life:~$ :(){ :|:& };:
