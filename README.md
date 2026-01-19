@@ -101,13 +101,13 @@
 ### :zap: Recent Brainwash Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#117](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/pull/117) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
-2. 💪 Opened PR [#117](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/pull/117) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
-3. 🔒 Closed issue [#2](https://github.com/Numbersf/SCHED_PATCH/issues/2) in [Numbersf/SCHED_PATCH](https://github.com/Numbersf/SCHED_PATCH)
-4. 🗣 Commented on [#2](https://github.com/Numbersf/SCHED_PATCH/issues/2#issuecomment-3762865008) in [Numbersf/SCHED_PATCH](https://github.com/Numbersf/SCHED_PATCH)
-5. 🗣 Commented on [#88](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/issues/88#issuecomment-3761302820) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
-6. 🗣 Commented on [#2](https://github.com/Numbersf/SCHED_PATCH/issues/2#issuecomment-3759945436) in [Numbersf/SCHED_PATCH](https://github.com/Numbersf/SCHED_PATCH)
-7. 🗣 Commented on [#102](https://github.com/Numbersf/Action-Build/issues/102#issuecomment-3754564807) in [Numbersf/Action-Build](https://github.com/Numbersf/Action-Build)
+1. 🗣 Commented on [#1079](https://github.com/KernelSU-Next/KernelSU-Next/issues/1079#issuecomment-3767646361) in [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
+2. 🗣 Commented on [#1079](https://github.com/KernelSU-Next/KernelSU-Next/issues/1079#issuecomment-3767628510) in [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
+3. 🎉 Merged PR [#117](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/pull/117) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
+4. 💪 Opened PR [#117](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/pull/117) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
+5. 🔒 Closed issue [#2](https://github.com/Numbersf/SCHED_PATCH/issues/2) in [Numbersf/SCHED_PATCH](https://github.com/Numbersf/SCHED_PATCH)
+6. 🗣 Commented on [#2](https://github.com/Numbersf/SCHED_PATCH/issues/2#issuecomment-3762865008) in [Numbersf/SCHED_PATCH](https://github.com/Numbersf/SCHED_PATCH)
+7. 🗣 Commented on [#88](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/issues/88#issuecomment-3761302820) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
 <!--END_SECTION:activity-->
 
 ### Hijacking System! <br> Initiating Nuke Sequence on Exit 💣💣💣 <br> exiting... <br/> user@life:~$ :(){ :|:& };:
