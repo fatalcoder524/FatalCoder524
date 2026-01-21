@@ -101,13 +101,13 @@
 ### :zap: Recent Brainwash Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3170](https://github.com/tiann/KernelSU/pull/3170) in [tiann/KernelSU](https://github.com/tiann/KernelSU)
-2. 💪 Opened PR [#3170](https://github.com/tiann/KernelSU/pull/3170) in [tiann/KernelSU](https://github.com/tiann/KernelSU)
-3. 🗣 Commented on [#1079](https://github.com/KernelSU-Next/KernelSU-Next/issues/1079#issuecomment-3767646361) in [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
-4. 🗣 Commented on [#1079](https://github.com/KernelSU-Next/KernelSU-Next/issues/1079#issuecomment-3767628510) in [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
-5. 🎉 Merged PR [#117](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/pull/117) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
-6. 💪 Opened PR [#117](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/pull/117) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
-7. 🔒 Closed issue [#2](https://github.com/Numbersf/SCHED_PATCH/issues/2) in [Numbersf/SCHED_PATCH](https://github.com/Numbersf/SCHED_PATCH)
+1. 🗣 Commented on [#143](https://github.com/WildKernels/Wild_KSU/issues/143#issuecomment-3777380070) in [WildKernels/Wild_KSU](https://github.com/WildKernels/Wild_KSU)
+2. 🗣 Commented on [#167](https://github.com/WildKernels/Wild_KSU/issues/167#issuecomment-3777341860) in [WildKernels/Wild_KSU](https://github.com/WildKernels/Wild_KSU)
+3. 🗣 Commented on [#177](https://github.com/WildKernels/Wild_KSU/issues/177#issuecomment-3777325390) in [WildKernels/Wild_KSU](https://github.com/WildKernels/Wild_KSU)
+4. 🗣 Commented on [#180](https://github.com/WildKernels/Wild_KSU/issues/180#issuecomment-3777305879) in [WildKernels/Wild_KSU](https://github.com/WildKernels/Wild_KSU)
+5. ℹ️ Assigned issue [#180](https://github.com/WildKernels/Wild_KSU/issues/180) in [WildKernels/Wild_KSU](https://github.com/WildKernels/Wild_KSU)
+6. 🎉 Merged PR [#3170](https://github.com/tiann/KernelSU/pull/3170) in [tiann/KernelSU](https://github.com/tiann/KernelSU)
+7. 💪 Opened PR [#3170](https://github.com/tiann/KernelSU/pull/3170) in [tiann/KernelSU](https://github.com/tiann/KernelSU)
 <!--END_SECTION:activity-->
 
 ### Hijacking System! <br> Initiating Nuke Sequence on Exit 💣💣💣 <br> exiting... <br/> user@life:~$ :(){ :|:& };:
