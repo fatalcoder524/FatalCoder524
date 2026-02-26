@@ -101,13 +101,13 @@
 ### :zap: Recent Brainwash Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1138](https://github.com/KernelSU-Next/KernelSU-Next/issues/1138) in [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
-2. 🗣 Commented on [#1138](https://github.com/KernelSU-Next/KernelSU-Next/issues/1138#issuecomment-3966917874) in [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
-3. 🗣 Commented on [#283](https://github.com/risin42/NagramX/issues/283#issuecomment-3964420585) in [risin42/NagramX](https://github.com/risin42/NagramX)
-4. 🗣 Commented on [#1049](https://github.com/KernelSU-Next/KernelSU-Next/issues/1049#issuecomment-3964331545) in [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
-5. 🔒 Closed issue [#1137](https://github.com/KernelSU-Next/KernelSU-Next/issues/1137) in [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
-6. 🗣 Commented on [#1137](https://github.com/KernelSU-Next/KernelSU-Next/issues/1137#issuecomment-3964175156) in [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
-7. 🗣 Commented on [#125](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/issues/125#issuecomment-3961457268) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
+1. 🗣 Commented on [#88](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/issues/88#issuecomment-3967884366) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
+2. 🔒 Closed issue [#1138](https://github.com/KernelSU-Next/KernelSU-Next/issues/1138) in [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
+3. 🗣 Commented on [#1138](https://github.com/KernelSU-Next/KernelSU-Next/issues/1138#issuecomment-3966917874) in [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
+4. 🗣 Commented on [#283](https://github.com/risin42/NagramX/issues/283#issuecomment-3964420585) in [risin42/NagramX](https://github.com/risin42/NagramX)
+5. 🗣 Commented on [#1049](https://github.com/KernelSU-Next/KernelSU-Next/issues/1049#issuecomment-3964331545) in [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
+6. 🔒 Closed issue [#1137](https://github.com/KernelSU-Next/KernelSU-Next/issues/1137) in [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
+7. 🗣 Commented on [#1137](https://github.com/KernelSU-Next/KernelSU-Next/issues/1137#issuecomment-3964175156) in [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
 <!--END_SECTION:activity-->
 
 ### Hijacking System! <br> Initiating Nuke Sequence on Exit 💣💣💣 <br> exiting... <br/> user@life:~$ :(){ :|:& };:
