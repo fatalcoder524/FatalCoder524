@@ -101,13 +101,13 @@
 ### :zap: Recent Brainwash Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#119](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/issues/119) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
-2. 🗣 Commented on [#119](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/issues/119#issuecomment-4038924405) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
-3. 🎉 Merged PR [#134](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/pull/134) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
-4. 💪 Opened PR [#134](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/pull/134) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
-5. 🗣 Commented on [#4](https://github.com/j-hc/ih8SecureLock/issues/4#issuecomment-4036328364) in [j-hc/ih8SecureLock](https://github.com/j-hc/ih8SecureLock)
-6. 🗣 Commented on [#303](https://github.com/PerformanC/ReZygisk/issues/303#issuecomment-4021224284) in [PerformanC/ReZygisk](https://github.com/PerformanC/ReZygisk)
-7. 🗣 Commented on [#303](https://github.com/PerformanC/ReZygisk/issues/303#issuecomment-4018223696) in [PerformanC/ReZygisk](https://github.com/PerformanC/ReZygisk)
+1. 🗣 Commented on [#135](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/issues/135#issuecomment-4044618264) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
+2. 🔒 Closed issue [#119](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/issues/119) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
+3. 🗣 Commented on [#119](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/issues/119#issuecomment-4038924405) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
+4. 🎉 Merged PR [#134](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/pull/134) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
+5. 💪 Opened PR [#134](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/pull/134) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
+6. 🗣 Commented on [#4](https://github.com/j-hc/ih8SecureLock/issues/4#issuecomment-4036328364) in [j-hc/ih8SecureLock](https://github.com/j-hc/ih8SecureLock)
+7. 🗣 Commented on [#303](https://github.com/PerformanC/ReZygisk/issues/303#issuecomment-4021224284) in [PerformanC/ReZygisk](https://github.com/PerformanC/ReZygisk)
 <!--END_SECTION:activity-->
 
 ### Hijacking System! <br> Initiating Nuke Sequence on Exit 💣💣💣 <br> exiting... <br/> user@life:~$ :(){ :|:& };:
