@@ -101,13 +101,13 @@
 ### :zap: Recent Brainwash Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/Enginex0/TEESimulator-RS/pull/3) in [Enginex0/TEESimulator-RS](https://github.com/Enginex0/TEESimulator-RS)
-2. 💪 Opened PR [#3](https://github.com/Enginex0/TEESimulator-RS/pull/3) in [Enginex0/TEESimulator-RS](https://github.com/Enginex0/TEESimulator-RS)
-3. 🗣 Commented on [#1148](https://github.com/KernelSU-Next/KernelSU-Next/issues/1148#issuecomment-4053774033) in [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
-4. 🗣 Commented on [#4](https://github.com/youtubediscord/magisk-zapret2/issues/4#issuecomment-4047296309) in [youtubediscord/magisk-zapret2](https://github.com/youtubediscord/magisk-zapret2)
-5. 🗣 Commented on [#135](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/issues/135#issuecomment-4044618264) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
-6. 🔒 Closed issue [#119](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/issues/119) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
-7. 🗣 Commented on [#119](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/issues/119#issuecomment-4038924405) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
+1. 🎉 Merged PR [#137](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/pull/137) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
+2. 💪 Opened PR [#137](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/pull/137) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
+3. 🎉 Merged PR [#3](https://github.com/Enginex0/TEESimulator-RS/pull/3) in [Enginex0/TEESimulator-RS](https://github.com/Enginex0/TEESimulator-RS)
+4. 💪 Opened PR [#3](https://github.com/Enginex0/TEESimulator-RS/pull/3) in [Enginex0/TEESimulator-RS](https://github.com/Enginex0/TEESimulator-RS)
+5. 🗣 Commented on [#1148](https://github.com/KernelSU-Next/KernelSU-Next/issues/1148#issuecomment-4053774033) in [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
+6. 🗣 Commented on [#4](https://github.com/youtubediscord/magisk-zapret2/issues/4#issuecomment-4047296309) in [youtubediscord/magisk-zapret2](https://github.com/youtubediscord/magisk-zapret2)
+7. 🗣 Commented on [#135](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/issues/135#issuecomment-4044618264) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
 <!--END_SECTION:activity-->
 
 ### Hijacking System! <br> Initiating Nuke Sequence on Exit 💣💣💣 <br> exiting... <br/> user@life:~$ :(){ :|:& };:
