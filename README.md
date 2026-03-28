@@ -101,13 +101,13 @@
 ### :zap: Recent Brainwash Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#140](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/issues/140) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
-2. 🔓 Reopened issue [#140](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/issues/140) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
+1. 🔒 Closed issue [#147](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/issues/147) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
+2. 🗣 Commented on [#147](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/issues/147#issuecomment-4147493479) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
 3. 🔒 Closed issue [#140](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/issues/140) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
-4. 🗣 Commented on [#140](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/issues/140#issuecomment-4133453223) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
-5. 🔒 Closed issue [#139](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/issues/139) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
-6. 🗣 Commented on [#1182](https://github.com/KernelSU-Next/KernelSU-Next/issues/1182#issuecomment-4108852798) in [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
-7. ❗ Opened issue [#1182](https://github.com/KernelSU-Next/KernelSU-Next/issues/1182) in [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
+4. 🔓 Reopened issue [#140](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/issues/140) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
+5. 🔒 Closed issue [#140](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/issues/140) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
+6. 🗣 Commented on [#140](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/issues/140#issuecomment-4133453223) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
+7. 🔒 Closed issue [#139](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/issues/139) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
 <!--END_SECTION:activity-->
 
 ### Hijacking System! <br> Initiating Nuke Sequence on Exit 💣💣💣 <br> exiting... <br/> user@life:~$ :(){ :|:& };:
