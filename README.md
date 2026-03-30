@@ -101,13 +101,13 @@
 ### :zap: Recent Brainwash Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#79](https://github.com/vc-teahouse/Baseband-guard/pull/79) in [vc-teahouse/Baseband-guard](https://github.com/vc-teahouse/Baseband-guard)
-2. 🗣 Commented on [#208](https://github.com/WildKernels/Wild_KSU/issues/208#issuecomment-4150122618) in [WildKernels/Wild_KSU](https://github.com/WildKernels/Wild_KSU)
-3. 🔒 Closed issue [#208](https://github.com/WildKernels/Wild_KSU/issues/208) in [WildKernels/Wild_KSU](https://github.com/WildKernels/Wild_KSU)
-4. 🗣 Commented on [#725](https://github.com/KernelSU-Next/KernelSU-Next/issues/725#issuecomment-4150106722) in [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
-5. 🔒 Closed issue [#725](https://github.com/KernelSU-Next/KernelSU-Next/issues/725) in [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
-6. 🔒 Closed issue [#1079](https://github.com/KernelSU-Next/KernelSU-Next/issues/1079) in [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
-7. 🗣 Commented on [#1079](https://github.com/KernelSU-Next/KernelSU-Next/issues/1079#issuecomment-4150104352) in [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
+1. 🎉 Merged PR [#211](https://github.com/WildKernels/Wild_KSU/pull/211) in [WildKernels/Wild_KSU](https://github.com/WildKernels/Wild_KSU)
+2. 💪 Opened PR [#211](https://github.com/WildKernels/Wild_KSU/pull/211) in [WildKernels/Wild_KSU](https://github.com/WildKernels/Wild_KSU)
+3. 🎉 Merged PR [#79](https://github.com/vc-teahouse/Baseband-guard/pull/79) in [vc-teahouse/Baseband-guard](https://github.com/vc-teahouse/Baseband-guard)
+4. 🗣 Commented on [#208](https://github.com/WildKernels/Wild_KSU/issues/208#issuecomment-4150122618) in [WildKernels/Wild_KSU](https://github.com/WildKernels/Wild_KSU)
+5. 🔒 Closed issue [#208](https://github.com/WildKernels/Wild_KSU/issues/208) in [WildKernels/Wild_KSU](https://github.com/WildKernels/Wild_KSU)
+6. 🗣 Commented on [#725](https://github.com/KernelSU-Next/KernelSU-Next/issues/725#issuecomment-4150106722) in [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
+7. 🔒 Closed issue [#725](https://github.com/KernelSU-Next/KernelSU-Next/issues/725) in [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
 <!--END_SECTION:activity-->
 
 ### Hijacking System! <br> Initiating Nuke Sequence on Exit 💣💣💣 <br> exiting... <br/> user@life:~$ :(){ :|:& };:
