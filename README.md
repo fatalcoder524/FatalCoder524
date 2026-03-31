@@ -101,13 +101,13 @@
 ### :zap: Recent Brainwash Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/OnePlusOSS/android_kernel_common_oneplus_sm8850/issues/1#issuecomment-4158001870) in [OnePlusOSS/android_kernel_common_oneplus_sm8850](https://github.com/OnePlusOSS/android_kernel_common_oneplus_sm8850)
-2. 🗣 Commented on [#138](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/issues/138#issuecomment-4154452362) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
-3. 🔒 Closed issue [#138](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/issues/138) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
-4. 🎉 Merged PR [#211](https://github.com/WildKernels/Wild_KSU/pull/211) in [WildKernels/Wild_KSU](https://github.com/WildKernels/Wild_KSU)
-5. 💪 Opened PR [#211](https://github.com/WildKernels/Wild_KSU/pull/211) in [WildKernels/Wild_KSU](https://github.com/WildKernels/Wild_KSU)
-6. 🎉 Merged PR [#79](https://github.com/vc-teahouse/Baseband-guard/pull/79) in [vc-teahouse/Baseband-guard](https://github.com/vc-teahouse/Baseband-guard)
-7. 🗣 Commented on [#208](https://github.com/WildKernels/Wild_KSU/issues/208#issuecomment-4150122618) in [WildKernels/Wild_KSU](https://github.com/WildKernels/Wild_KSU)
+1. 🔒 Closed issue [#151](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/issues/151) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
+2. 🗣 Commented on [#151](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/issues/151#issuecomment-4161898120) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
+3. 🗣 Commented on [#1](https://github.com/OnePlusOSS/android_kernel_common_oneplus_sm8850/issues/1#issuecomment-4158001870) in [OnePlusOSS/android_kernel_common_oneplus_sm8850](https://github.com/OnePlusOSS/android_kernel_common_oneplus_sm8850)
+4. 🗣 Commented on [#138](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/issues/138#issuecomment-4154452362) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
+5. 🔒 Closed issue [#138](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/issues/138) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
+6. 🎉 Merged PR [#211](https://github.com/WildKernels/Wild_KSU/pull/211) in [WildKernels/Wild_KSU](https://github.com/WildKernels/Wild_KSU)
+7. 💪 Opened PR [#211](https://github.com/WildKernels/Wild_KSU/pull/211) in [WildKernels/Wild_KSU](https://github.com/WildKernels/Wild_KSU)
 <!--END_SECTION:activity-->
 
 ### Hijacking System! <br> Initiating Nuke Sequence on Exit 💣💣💣 <br> exiting... <br/> user@life:~$ :(){ :|:& };:
