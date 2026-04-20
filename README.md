@@ -101,13 +101,13 @@
 ### :zap: Recent Brainwash Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#192](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/issues/192#issuecomment-4278074369) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
-2. ❗ Opened issue [#10](https://github.com/luigimak/OnePlus_KernelSU_SUSFS/issues/10) in [luigimak/OnePlus_KernelSU_SUSFS](https://github.com/luigimak/OnePlus_KernelSU_SUSFS)
-3. 🔒 Closed issue [#1226](https://github.com/KernelSU-Next/KernelSU-Next/issues/1226) in [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
-4. 🔒 Closed issue [#1227](https://github.com/KernelSU-Next/KernelSU-Next/issues/1227) in [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
-5. ℹ️ Labeled issue [#1227](https://github.com/KernelSU-Next/KernelSU-Next/issues/1227) in [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
-6. ❗ Opened issue [#1227](https://github.com/KernelSU-Next/KernelSU-Next/issues/1227) in [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
-7. 🗣 Commented on [#1226](https://github.com/KernelSU-Next/KernelSU-Next/issues/1226#issuecomment-4270373069) in [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
+1. 🗣 Commented on [#192](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/issues/192#issuecomment-4283681342) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
+2. 🗣 Commented on [#192](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/issues/192#issuecomment-4278074369) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
+3. ❗ Opened issue [#10](https://github.com/luigimak/OnePlus_KernelSU_SUSFS/issues/10) in [luigimak/OnePlus_KernelSU_SUSFS](https://github.com/luigimak/OnePlus_KernelSU_SUSFS)
+4. 🔒 Closed issue [#1226](https://github.com/KernelSU-Next/KernelSU-Next/issues/1226) in [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
+5. 🔒 Closed issue [#1227](https://github.com/KernelSU-Next/KernelSU-Next/issues/1227) in [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
+6. ℹ️ Labeled issue [#1227](https://github.com/KernelSU-Next/KernelSU-Next/issues/1227) in [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
+7. ❗ Opened issue [#1227](https://github.com/KernelSU-Next/KernelSU-Next/issues/1227) in [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
 <!--END_SECTION:activity-->
 
 ### Hijacking System! <br> Initiating Nuke Sequence on Exit 💣💣💣 <br> exiting... <br/> user@life:~$ :(){ :|:& };:
