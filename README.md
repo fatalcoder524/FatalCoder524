@@ -17,57 +17,67 @@
 
 ### user@life:~$ ./fatalcoder524 --tech-stack-known <br> Languages👨‍💻,Tools🧰& Technologia🤔 Known
 <p align="center">
-      <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" alt="c" width="60" height="60"/>
-      <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="c++" width="55" height="55"/>
-      <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="c#" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
+      <picture>
+            <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" alt="c" width="60" height="60"/>
+            <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="c++" width="55" height="55"/>
+            <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="c#" width="55" height="55"/>
+            <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/>
+            <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
+      </picture>
 </p>
 <p align="center">
-      <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html" width="55" height="55"/>
-      <img src="https://www.svgrepo.com/show/303481/css-3-logo.svg" alt="html" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JS" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="55" height="55"/>
+      <picture>
+            <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html" width="55" height="55"/>
+            <img src="https://www.svgrepo.com/show/303481/css-3-logo.svg" alt="html" width="55" height="55"/>
+            <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JS" width="55" height="55"/>
+            <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="55" height="55"/>
+            <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
+            <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="55" height="55"/>
+      </picture>
 </p>
 <p align="center">
-      <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="arduino" width="55" height="55"/>
-      <img src="https://static.wikia.nocookie.net/logopedia/images/2/28/Android-studio-canary.svg/revision/latest?cb=20250425141528" alt="android-studio" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
-      <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/refs/heads/main/svg/selenium.svg" alt="selenium" width="45" height="55"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Magisk_Logo.svg/459px-Magisk_Logo.svg.png" alt="magisk" width="55" height="55"/>
-      <img src="https://github.com/KernelSU-Next/KernelSU-Next/blob/stable/assets/kernelsu_next.png" alt="kernelsu-next" width="55" height="55"/>
+      <picture>
+            <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="arduino" width="55" height="55"/>
+            <img src="https://static.wikia.nocookie.net/logopedia/images/2/28/Android-studio-canary.svg/revision/latest?cb=20250425141528" alt="android-studio" width="55" height="55"/>
+            <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" width="55" height="55"/>
+            <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="55" height="55"/>
+            <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="55" height="55"/>
+            <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
+            <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
+            <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
+            <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/refs/heads/main/svg/selenium.svg" alt="selenium" width="45" height="55"/>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Magisk_Logo.svg" alt="magisk" width="55" height="55"/>
+            <img src="https://github.com/KernelSU-Next/KernelSU-Next/blob/stable/assets/kernelsu_next.png" alt="kernelsu-next" width="55" height="55"/>
+      </picture>
 </p>
 
 ### user@life:~$ ./fatalcoder524 --tech-stack-intrested <br> Languages👨‍💻,Tools🧰& Technologia🤔 Learning or Wish to Learn
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/refs/heads/master/icons/file_type_matlab.svg" alt="matlab" width="55" height="55"/>
+      <picture>
+        <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="45" height="45"/>
+        <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/refs/heads/master/icons/file_type_matlab.svg" alt="matlab" width="55" height="55"/>
+      </picture>
 </p>
 
 ### user@life:~$ ./fatalcoder524 --contact-me <br> 📫 How to reach me (other than by tracking my spaceship🛸):
 <p align="center">
-  <a href="https://t.me/anonymous_yolo">
-    <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="telegram" width="55" height="55"/>
-  </a>
-  <a href="https://www.facebook.com/fatalcoder524">
-    <img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="facebook" width="55" height="55"/>
-  </a>
-  <a href="https://x.com/fatalcoder524">
-    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="twitter" width="55" height="55"/>
-  </a>
-  <a href="https://www.linkedin.com/in/fatalcoder524">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="55" height="55"/>
-  </a>
-  <a href="https://discordapp.com/users/fatalcoder524">
-    <img src="https://www.vectorlogo.zone/logos/discord/discord-icon.svg" alt="discord" width="55" height="55"/>
-  </a>
+      <picture>
+        <a href="https://t.me/anonymous_yolo">
+          <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="telegram" width="55" height="55"/>
+        </a>
+        <a href="https://www.facebook.com/fatalcoder524">
+          <img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="facebook" width="55" height="55"/>
+        </a>
+        <a href="https://x.com/fatalcoder524">
+          <img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="twitter" width="55" height="55"/>
+        </a>
+        <a href="https://www.linkedin.com/in/fatalcoder524">
+          <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="55" height="55"/>
+        </a>
+        <a href="https://discordapp.com/users/fatalcoder524">
+          <img src="https://www.vectorlogo.zone/logos/discord/discord-icon.svg" alt="discord" width="55" height="55"/>
+        </a>
+      </picture>
 </p>
 
 ### user@life:~$ ./fatalcoder524 --github-stats <br> My GitHub Stats: <br> 🛸 Initiating Git Data Abduction Sequence...
