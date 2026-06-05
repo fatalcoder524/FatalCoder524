@@ -111,13 +111,13 @@
 ### :zap: Recent Brainwash Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1269](https://github.com/KernelSU-Next/KernelSU-Next/issues/1269#issuecomment-4621086164) in [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
-2. 🗣 Commented on [#1270](https://github.com/KernelSU-Next/KernelSU-Next/issues/1270#issuecomment-4621052468) in [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
-3. 🔒 Closed issue [#1270](https://github.com/KernelSU-Next/KernelSU-Next/issues/1270) in [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
-4. 🔒 Closed issue [#1279](https://github.com/KernelSU-Next/KernelSU-Next/issues/1279) in [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
-5. 🗣 Commented on [#1279](https://github.com/KernelSU-Next/KernelSU-Next/issues/1279#issuecomment-4621050478) in [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
-6. 🗣 Commented on [#25](https://github.com/Enginex0/TEESimulator-RS/issues/25#issuecomment-4620741384) in [Enginex0/TEESimulator-RS](https://github.com/Enginex0/TEESimulator-RS)
-7. 🗣 Commented on [#223](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/issues/223#issuecomment-4620745843) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
+1. 🔒 Closed issue [#208](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/issues/208) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
+2. 🔒 Closed issue [#223](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/issues/223) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
+3. 🗣 Commented on [#1269](https://github.com/KernelSU-Next/KernelSU-Next/issues/1269#issuecomment-4621086164) in [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
+4. 🗣 Commented on [#1270](https://github.com/KernelSU-Next/KernelSU-Next/issues/1270#issuecomment-4621052468) in [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
+5. 🔒 Closed issue [#1270](https://github.com/KernelSU-Next/KernelSU-Next/issues/1270) in [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
+6. 🔒 Closed issue [#1279](https://github.com/KernelSU-Next/KernelSU-Next/issues/1279) in [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
+7. 🗣 Commented on [#1279](https://github.com/KernelSU-Next/KernelSU-Next/issues/1279#issuecomment-4621050478) in [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
 <!--END_SECTION:activity-->
 
 ### Hijacking System! <br> Initiating Nuke Sequence on Exit 💣💣💣 <br> exiting... <br/> user@life:~$ :(){ :|:& };:
