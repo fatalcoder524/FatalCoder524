@@ -111,13 +111,13 @@
 ### :zap: Recent Brainwash Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#207](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/issues/207#issuecomment-4642545877) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
-2. 🎉 Merged PR [#192](https://github.com/ravindu644/Droidspaces-OSS/pull/192) in [ravindu644/Droidspaces-OSS](https://github.com/ravindu644/Droidspaces-OSS)
-3. 💪 Opened PR [#192](https://github.com/ravindu644/Droidspaces-OSS/pull/192) in [ravindu644/Droidspaces-OSS](https://github.com/ravindu644/Droidspaces-OSS)
-4. ❌ Closed PR [#228](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/pull/228) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
-5. 🔒 Closed issue [#208](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/issues/208) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
-6. 🔒 Closed issue [#223](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/issues/223) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
-7. 🗣 Commented on [#1269](https://github.com/KernelSU-Next/KernelSU-Next/issues/1269#issuecomment-4621086164) in [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next)
+1. 🗣 Commented on [#229](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/pull/229#issuecomment-4644106790) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
+2. 🗣 Commented on [#229](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/pull/229#issuecomment-4644105649) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
+3. 🗣 Commented on [#207](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/issues/207#issuecomment-4642545877) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
+4. 🎉 Merged PR [#192](https://github.com/ravindu644/Droidspaces-OSS/pull/192) in [ravindu644/Droidspaces-OSS](https://github.com/ravindu644/Droidspaces-OSS)
+5. 💪 Opened PR [#192](https://github.com/ravindu644/Droidspaces-OSS/pull/192) in [ravindu644/Droidspaces-OSS](https://github.com/ravindu644/Droidspaces-OSS)
+6. ❌ Closed PR [#228](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/pull/228) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
+7. 🔒 Closed issue [#208](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/issues/208) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
 <!--END_SECTION:activity-->
 
 ### Hijacking System! <br> Initiating Nuke Sequence on Exit 💣💣💣 <br> exiting... <br/> user@life:~$ :(){ :|:& };:
