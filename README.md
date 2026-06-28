@@ -111,13 +111,13 @@
 ### :zap: Recent Brainwash Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#239](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/issues/239#issuecomment-4820664622) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
-2. 🔒 Closed issue [#239](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/issues/239) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
-3. 🔒 Closed issue [#31](https://github.com/fatalcoder524/OnePlus_KernelSU_SUSFS/issues/31) in [fatalcoder524/OnePlus_KernelSU_SUSFS](https://github.com/fatalcoder524/OnePlus_KernelSU_SUSFS)
-4. 🗣 Commented on [#239](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/issues/239#issuecomment-4737643927) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
-5. 🔒 Closed issue [#240](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/issues/240) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
-6. 🔒 Closed issue [#32](https://github.com/fatalcoder524/OnePlus_KernelSU_SUSFS/issues/32) in [fatalcoder524/OnePlus_KernelSU_SUSFS](https://github.com/fatalcoder524/OnePlus_KernelSU_SUSFS)
-7. 🔒 Closed issue [#34](https://github.com/fatalcoder524/OnePlus_KernelSU_SUSFS/issues/34) in [fatalcoder524/OnePlus_KernelSU_SUSFS](https://github.com/fatalcoder524/OnePlus_KernelSU_SUSFS)
+1. 🗣 Commented on [#59](https://github.com/OnePlusOSS/kernel_manifest/issues/59#issuecomment-4825140353) in [OnePlusOSS/kernel_manifest](https://github.com/OnePlusOSS/kernel_manifest)
+2. 🗣 Commented on [#239](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/issues/239#issuecomment-4820664622) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
+3. 🔒 Closed issue [#239](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/issues/239) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
+4. 🔒 Closed issue [#31](https://github.com/fatalcoder524/OnePlus_KernelSU_SUSFS/issues/31) in [fatalcoder524/OnePlus_KernelSU_SUSFS](https://github.com/fatalcoder524/OnePlus_KernelSU_SUSFS)
+5. 🗣 Commented on [#239](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/issues/239#issuecomment-4737643927) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
+6. 🔒 Closed issue [#240](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/issues/240) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
+7. 🔒 Closed issue [#32](https://github.com/fatalcoder524/OnePlus_KernelSU_SUSFS/issues/32) in [fatalcoder524/OnePlus_KernelSU_SUSFS](https://github.com/fatalcoder524/OnePlus_KernelSU_SUSFS)
 <!--END_SECTION:activity-->
 
 ### Hijacking System! <br> Initiating Nuke Sequence on Exit 💣💣💣 <br> exiting... <br/> user@life:~$ :(){ :|:& };:
