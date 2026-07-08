@@ -111,13 +111,13 @@
 ### :zap: Recent Brainwash Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#9](https://github.com/Wishmasterflo/ofox_salami/issues/9) in [Wishmasterflo/ofox_salami](https://github.com/Wishmasterflo/ofox_salami)
-2. 🗣 Commented on [#244](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/issues/244#issuecomment-4906894738) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
-3. 🗣 Commented on [#244](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/issues/244#issuecomment-4905244088) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
-4. 🗣 Commented on [#244](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/issues/244#issuecomment-4904858902) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
-5. 🗣 Commented on [#244](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/issues/244#issuecomment-4886644885) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
-6. 🗣 Commented on [#244](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/issues/244#issuecomment-4886615779) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
-7. 🗣 Commented on [#244](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/issues/244#issuecomment-4886593512) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
+1. 🗣 Commented on [#35](https://github.com/OnePlusOSS/android_kernel_common_oneplus_sm8650/issues/35#issuecomment-4912208390) in [OnePlusOSS/android_kernel_common_oneplus_sm8650](https://github.com/OnePlusOSS/android_kernel_common_oneplus_sm8650)
+2. 🗣 Commented on [#9](https://github.com/Wishmasterflo/ofox_salami/issues/9#issuecomment-4912196863) in [Wishmasterflo/ofox_salami](https://github.com/Wishmasterflo/ofox_salami)
+3. ❗ Opened issue [#9](https://github.com/Wishmasterflo/ofox_salami/issues/9) in [Wishmasterflo/ofox_salami](https://github.com/Wishmasterflo/ofox_salami)
+4. 🗣 Commented on [#244](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/issues/244#issuecomment-4906894738) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
+5. 🗣 Commented on [#244](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/issues/244#issuecomment-4905244088) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
+6. 🗣 Commented on [#244](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/issues/244#issuecomment-4904858902) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
+7. 🗣 Commented on [#244](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS/issues/244#issuecomment-4886644885) in [WildKernels/OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
 <!--END_SECTION:activity-->
 
 ### Hijacking System! <br> Initiating Nuke Sequence on Exit 💣💣💣 <br> exiting... <br/> user@life:~$ :(){ :|:& };:
